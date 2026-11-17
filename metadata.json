@@ -1,0 +1,6 @@
+{
+  "name": "NovaWorks Technologies CRM",
+  "description": "Enterprise project orchestration, AI transcript intake, and role-based delivery workspace for NovaWorks Technologies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
